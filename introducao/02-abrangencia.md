@@ -2,13 +2,13 @@
 
 ## Nanorredes
 
-São usadas por nanotecnoligia, maquinas microscópicas que podem se comunicar umas com as outras, essa comunicação podem ser feitas por radiofrequência ou por nivel molecular.
+São usadas por nanotecnoligia, maquinas microscópicas que podem se comunicar umas com as outras, essa comunicação pode ser feitas por radiofrequência ou por nivel molecular.
 
 ## NFC - Near Field Communication
 
 Esse tipo de rede é formada por aparelhos próximos uns dos outros, geralmente utilizando comunicação sem fio. Essa comunicação sem fio é feita a uma distancia de poucos centimetros geralmente utilizando RFID, como por exemplo os cartões de onibus e metrôs.
 
-## BAN - Bodey Area Network
+## BAN - Body Area Network
 
 É muito utilizada na área da saúde, onde tem sensores no seu corpo, ou próximos a ele, para monitorar o batimento cardíaco por exemplo.
 
